@@ -1,5 +1,7 @@
 # SOLID principles
 
+### D: Dependency Inversion Principle (Принцип инверсии зависимостей).
+
 ### links
 * [Принципы SOLID, о которых должен знать каждый](https://medium.com/webbdev/solid-4ffc018077da)
 * [SOLID: The First 5 Principles of Object Oriented Design](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
